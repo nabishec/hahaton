@@ -1,2 +1,2 @@
-# hahaton
+# hahathon
 social network for students
